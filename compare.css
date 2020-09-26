@@ -1,0 +1,162 @@
+body
+{
+margin-left:0px;
+margin-top:0px;
+margin-right:0px;
+margin-bottom:opx;
+background:#F2E8E8;
+
+}
+.header
+{
+	background:#aacdef;
+	height:300px;
+	font-family:verdana;
+}
+.search
+{
+	
+	height:10px;
+	max-width:1000px;
+
+	padding-top:20px;
+	padding-left:0px;
+	padding-bottom:0px;
+	margin-left:400px;
+	margin-top:0px;
+	background:#73a6c9;
+
+}
+.s
+{
+	width:100%;
+	background:#73a6c9;
+	height:80px;
+	padding-bottom:10px;
+}
+.sb
+{
+	
+	float:right;
+	
+}
+.navi
+{
+	padding-top:80px;
+	width:100%;
+	font-family:verdana;
+}
+	 
+.wrap
+{
+  background:#EFE6F9;
+  height:1100px;
+  width:90%;
+  padding:60px;
+  padding-left:90px;
+  margin-left:75px;
+  margin-top:100px;
+}
+.wrapone
+{
+	 float:left;
+	 background:white;
+	 height:850px;
+	 width:610px;
+	 margin-left:0px;
+	 box-shadow:10px 10px 10px #505258;
+	
+} 
+.wraponeone
+{ 
+     background:white;
+	 height:350px;
+	 width:600px;
+	 padding:0px;
+	
+}
+.slide
+{
+	  height:150px;
+	  width:150px;
+	  background:#D594BA;
+	  margin-left:50px;
+	   border: 2px solid;
+     border-radius: 25px;
+	 padding:20px;
+}
+.scroll 
+{
+	 height:385px;
+	 width:550px;
+	 overflow-y:scroll;
+	background:#8da7be;
+  
+	 padding:20px;
+	 padding:5px;
+	 
+}
+.wraponetwo
+{
+	 background:#8da7be;
+	 height:420px;
+	 width:575px;
+	 padding-left:20px;
+	 margin-left:20px;
+}
+.wraptwo
+{
+	  float:left;
+	 background:white;
+	 height:850px;
+	 width:610px;
+	 margin-left:50px;
+	 padding:0px;
+	 box-shadow:10px 10px 10px #505258;
+	
+}
+.wraptwoone
+{
+	background:white;
+	 height:350px;
+	 width:600px;
+	 padding-left:100px;
+	
+}
+.wraptwotwo
+{
+     background:#8da7be;
+	 height:420px;
+	 width:575px;
+	 padding-left:20px;
+	 margin-left:20px;
+}
+.compare
+{
+	margin-left:575px;
+	margin-right:585px;
+	margin-top:950px;
+	background:white;
+	height:30px;
+	width:60px;
+	padding:0px;
+
+	
+	
+}
+.sub
+{
+ box-shadow:10px 10px 10px #505258;
+ text-align:center;
+}
+	
+	
+
+
+
+.foot
+{
+	 background:#7f9183;
+	 height:100px;
+	 margin-top:30px;
+}

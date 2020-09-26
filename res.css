@@ -1,0 +1,239 @@
+body
+{
+margin-left:0px;
+margin-top:0px;
+margin-right:0px;
+margin-bottom:0px;
+background:#b8b8d1;
+}
+
+.header
+{
+	height:100px;
+	width:100%;
+	background:#aacdef;
+}
+
+.navi
+{
+	width:100%;
+	font-family:verdana;
+}
+.print
+{
+	margin:3px;
+	opacity:0.5;
+}
+
+
+.wrapper
+{
+	height:1230px;
+	width:1385px;
+	background:#EFE6F9;
+	padding-top:30px;
+	padding-left:40px;
+	padding-right:50px;
+	margin-left:50px;
+	margin-top:50px;
+	margin-bottom:30px;
+	box-shadow:10px 10px 10px #505258;
+}
+.row1
+{
+	background:white;
+	width:375px;
+    height:1100px;
+	margin:auto;
+	padding-top:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:0px;
+	color:black;
+	border:1px solid #EFE6F9;
+	float:left;
+	
+	
+}
+.compare
+{
+	border:1px solid #EFE6F9;
+	height:100px;
+	font-family:Times New Roman;
+	font-size:30px;
+	text-align:center;
+	
+}
+.imgflip
+{
+	border:0px solid #EFE6F9;
+	height:100px;
+	width:300px;
+	font-family:Times New Roman;
+	font-size:30px;
+	text-align:center;
+	
+}
+.title
+{
+	
+	border:1px solid #EFE6F9;
+	height:100px;
+	font-family:Times New Roman;
+	font-size:30px;
+	text-align:center;
+	padding:5px;
+}
+.titleone
+{
+	
+	border:1px solid #EFE6F9;
+	height:100px;
+	font-family:Times New Roman;
+	font-size:30px;
+	text-align:center;
+	padding:5px;
+	overflow-y:scroll;
+}
+.image
+{
+	border:1px solid #EFE6F9;
+	height:300px;
+	font-family:Times New Roman;
+	font-size:30px;
+	text-align:center;
+	
+}
+.descriptionone
+{
+	border:1px solid #EFE6F9;
+	height:100px;
+	font-family:Times New Roman;
+	font-size:30px;
+	text-align:center;
+	padding:5px;
+	
+}
+.description
+{
+	border:1px solid #EFE6F9;
+	height:100px;
+    overflow-y:scroll;
+	font-family:Times New Roman;
+	font-size:30px;
+	text-align:center;
+	padding:5px;
+	
+}
+.mrp
+{
+	border:1px solid #EFE6F9;
+	height:75px;
+	font-family:Times New Roman;
+	font-size:30px;
+	text-align:center;
+	padding:5px;
+}
+.price
+{
+	
+	border:1px solid #EFE6F9;
+	height:75px;
+	font-family:Times New Roman;
+	font-size:30px;
+	text-align:center;
+	padding:5px;
+}
+.category
+{
+	
+	border:1px solid #EFE6F9;
+	height:120px;
+	font-family:Times New Roman;
+	font-size:30px;
+	text-align:center;
+	padding:5px;
+}
+.categoryone
+{
+	border:1px solid #EFE6F9;
+	height:120px;
+	font-family:Times New Roman;
+	font-size:30px;
+	text-align:center;
+	padding:5px;
+	overflow-y:scroll;
+}
+.brand
+{
+	
+	border:1px solid #EFE6F9;
+	height:75px;
+	font-family:Times New Roman;
+	font-size:30px;
+	text-align:center;
+	padding:5px;
+	
+}
+.instock
+{
+	border:1px solid #EFE6F9;
+	height:75px;
+	font-family:Times New Roman;
+	font-size:30px;
+	text-align:center;
+	padding-top:5px;
+}
+.link
+{
+    border:1px solid #EFE6F9;
+	height:75px;
+	font-family:Times New Roman;
+	font-size:30px;
+	text-align:center;
+	background:white;
+
+
+}
+
+
+
+.flipkart
+{
+	background:white;
+	width:500px;
+    height:1100px;
+	margin:auto;
+	padding-top:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:0px;
+	color:black;
+	border:1px solid #EFE6F9;
+	float:left;
+	
+	
+}
+.snapdeal
+{
+	background:white;
+	width:500px;
+    height:1100px;
+	margin:auto;
+	padding-top:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:0px;
+	color:black;
+	border:1px solid #EFE6F9;
+	float:left;
+	
+	
+}
+
+.footer
+{
+	  height:200px;
+	  width:100%;
+	  background:#707078;
+}

@@ -1,0 +1,451 @@
+body
+{
+margin-left:0px;
+margin-top:0px;
+margin-right:0px;
+margin-bottom:opx;
+background:#F2E8E8;
+
+}
+.header
+{
+	background:#aacdef;
+	height:100px;
+	font-family:verdana;
+	
+	
+   
+}
+.search
+{
+	height:80px;
+	max-width:600px;
+    margin-bottom:0px;
+	padding-top:10px;
+	padding-left:5px;
+	
+	
+
+}
+.nav
+{
+	background:#abbdef;
+	max-width:1600px;
+    max-height:275px;
+	margin-top:30px;
+	padding-top:5px;
+	padding-left:200px;
+	padding-bottom:50px;
+	color:#5F9EA5;
+	
+}
+.navi
+{
+	width:100%;
+}
+.navone
+{
+	
+	float:left;
+	 background:white;
+	 max-height:190px;
+	 max-width:300;
+	 border: 1px solid;
+    border-radius: 20px 20px 0px 0px;
+	padding-top:1px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:5px;
+	overflow:hidden;
+	margin-left:75px;
+    font-family:Times New Roman;
+	font-size:25px;
+   
+}
+.navone:hover
+{
+	
+	-ms-transform: rotate(15deg); /* IE 9 */
+    -webkit-transform: rotate(15deg); /* Chrome, Safari, Opera */
+    transform: rotate(15deg);
+	transition:0.1s;
+	color:green;
+}
+	 
+
+.img
+{
+	 background:white;
+	 margin-top:50px;
+}
+.one
+{
+	
+    background:#EFE6F9;
+	height:300px;
+	width:1200px;
+	padding-top:25px;
+	padding-bottom:20px;
+	padding-left:150px;
+	padding-right:50px;
+	margin-left:75px;
+	margin-top:60px;
+}
+.automotives
+{    float:left;
+	 background:white;
+	 border: 2px solid;
+    border-radius: 25px;
+	height:210px;
+	width:225px;
+	text-align:center;
+	font-size:20px;
+	box-shadow:8px 8px 8px black;
+	
+	padding-top:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:5px;
+	overflow:hidden;
+	transition:1s;
+
+}
+.automotives:hover
+{
+	
+	-ms-transform: rotate(15deg); /* IE 9 */
+    -webkit-transform: rotate(15deg); /* Chrome, Safari, Opera */
+    transform: rotate(15deg);
+	transition:1s;
+}
+.babycare
+{    float:left;
+     margin-left:60px;
+	background:white;
+	 
+	 border: 2px solid;
+    border-radius: 25px;
+	height:210px;
+	width:220px;
+	text-align:center;
+	font-size:20px;
+	text-shadow:2px 2px blue;
+	box-shadow:8px 8px 8px black;
+	padding-top:0x;
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:5px;
+	overflow:hidden;
+	transition:1s;
+}
+ .babycare:hover
+{
+	-ms-transform: rotate(-15deg); /* IE 9 */
+    -webkit-transform: rotate(-15deg); /* Chrome, Safari, Opera */
+    transform: rotate(-15deg);
+	transition:1s;
+}
+.camera
+{    float:left;
+     margin-left:60px;
+	background:white;
+	 
+	 border: 2px solid;
+    border-radius: 25px;
+	height:210px;
+	width:220px;
+	text-align:center;
+	font-size:20px;
+	text-shadow:2px 2px blue;
+	box-shadow:8px 8px 8px black;
+	padding-top:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:5px;
+	overflow:hidden;
+	
+	transition:1s;
+} 
+.camera:hover
+{
+	-ms-transform: rotate(15deg); /* IE 9 */
+    -webkit-transform: rotate(15deg); /* Chrome, Safari, Opera */
+    transform: rotate(15deg);
+	transition:1s;
+}
+.computer
+{    float:left;
+     margin-left:60px;
+	 
+	background:white;
+	 border: 2px solid;
+    border-radius: 25px;
+	height:210px;
+	 width:290px;
+	 text-align:center;
+	font-size:20px;
+	text-shadow:2px 2px blue;
+	box-shadow:8px 8px 8px black;
+	padding-top:5px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:5px;
+	overflow:hidden;
+	transition:1s;
+} 
+.computer:hover
+{
+	-ms-transform: rotate(-15deg); /* IE 9 */
+    -webkit-transform: rotate(-15deg); /* Chrome, Safari, Opera */
+    transform: rotate(-15deg);
+	transition:1s;
+}
+.two
+{
+	
+     background:#EFE6F9;
+	height:300px;
+	width:1200px;
+	padding-top:25px;
+	padding-bottom:20px;
+	padding-left:100px;
+	padding-right:100px;
+	margin-left:75px;
+}
+.eye
+{    float:left;
+	 background:white;
+	
+	 border: 2px solid;
+    border-radius: 25px;
+	height:210px;
+	 width:300px;
+	 text-align:center;
+	font-size:20px;
+	text-shadow:2px 2px blue;
+	box-shadow:8px 8px 8px black;
+	
+	padding-top:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:5px;
+	overflow:hidden;
+	
+	transition:1s;
+}
+.eye:hover
+{
+	-ms-transform: rotate(-15deg); /* IE 9 */
+    -webkit-transform: rotate(-15deg); /* Chrome, Safari, Opera */
+    transform: rotate(-15deg);
+	transition:1s;
+}
+.furniture
+{    float:left;
+     margin-left:60px;
+	background:white;
+	
+	 
+	 border: 2px solid;
+    border-radius: 25px;
+	height:210px;
+	 width:200px;
+	 text-align:center;
+	font-size:20px;
+	text-shadow:2px 2px blue;
+	box-shadow:8px 8px 8px black;
+	padding-top:5px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:5px;
+	overflow:hidden;
+	transition:1s;
+} 
+.furniture:hover
+{
+	-ms-transform: rotate(15deg); /* IE 9 */
+    -webkit-transform: rotate(1deg); /* Chrome, Safari, Opera */
+    transform: rotate(15deg);
+	transition:1s;
+}
+.gaming
+{    float:left;
+     margin-left:50px;
+	background:white;
+	
+	
+	 border: 2px solid;
+    border-radius: 25px;
+	height:210px;
+	 width:220px;
+	 text-align:center;
+	font-size:20px;
+	text-shadow:2px 2px blue;
+	box-shadow:8px 8px 8px black;
+	padding-top:5px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:5px;
+	overflow:hidden;
+	transition:1s;
+	 
+} 
+.gaming:hover
+{
+	-ms-transform: rotate(-15deg); /* IE 9 */
+    -webkit-transform: rotate(-15deg); /* Chrome, Safari, Opera */
+    transform: rotate(-15deg);
+	transition:1s;
+}
+.homeappliances
+{    float:left;
+     margin-left:90px;
+
+	background:white;
+	
+	
+	 border: 2px solid;
+    border-radius: 25px;
+	height:210px;
+	 width:200px;
+	 text-align:center;
+	font-size:20px;
+	text-shadow:2px 2px blue;
+	box-shadow:8px 8px 8px black;
+	padding-top:5px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:5px;
+	overflow:hidden;
+	transition:1s;
+} 
+.homeappliances:hover
+{
+	-ms-transform: rotate(15deg); /* IE 9 */
+    -webkit-transform: rotate(15deg); /* Chrome, Safari, Opera */
+    transform: rotate(15deg);
+	transition:1s;
+}
+.three
+{
+	
+    background:#EFE6F9;
+	height:300px;
+	width:1200px;
+	padding-top:25px;
+	padding-bottom:20px;
+	padding-left:100px;
+	padding-right:100px;
+	margin-left:75px;
+}
+.homeimprovement
+{    float:left;
+     
+	 background:white;
+	 height:235px;
+	 width:255px;
+	 border: 2px solid;
+     border-radius: 25px;
+	 padding-top:0px;
+	 padding-left:0px;
+	 padding-right:0px;
+	 padding-bottom:5px;
+	 overflow:hidden;
+	transition:1s;
+	text-align:center;
+	font-size:20px;
+	text-shadow:2px 2px blue;
+	box-shadow:8px 8px 8px black;
+}
+.homeimprovement:hover
+{
+	-ms-transform: rotate(15deg); /* IE 9 */
+    -webkit-transform: rotate(15deg); /* Chrome, Safari, Opera */
+    transform: rotate(15deg);
+	transition:1s;
+}
+.watches
+{    float:left;
+     margin-left:40px;
+	 background:white;
+	 height:210px;
+	 width:230px;
+	 border: 2px solid;
+     border-radius: 25px;
+	 padding-top:0px;
+	 padding-left:0px;
+	 padding-right:10px;
+	 padding-bottom:5px;
+	 overflow:hidden;
+	 transition:1s;
+	 text-align:center;
+	 font-size:20px;
+	text-shadow:2px 2px blue;
+	box-shadow:8px 8px 8px black;
+} 
+.watches:hover
+{
+	-ms-transform: rotate(-15deg); /* IE 9 */
+    -webkit-transform: rotate(-15deg); /* Chrome, Safari, Opera */
+    transform: rotate(-15deg);
+	transition:1s;
+}
+.kitchenappliances
+{    float:left;
+     margin-left:40px;
+	background:white;
+	 height:210px;
+	 width:250px;
+	 border: 2px solid;
+    border-radius: 25px;
+	padding-top:0px;
+	padding-left:0px;
+	padding-right:10px;
+	padding-bottom:5px;
+	overflow:hidden;
+	
+	 transition:1s;
+	 text-align:center;
+	 font-size:20px;
+	text-shadow:2px 2px blue;
+	box-shadow:8px 8px 8px black;
+} 
+.kitchenappliances:hover
+{
+	-ms-transform: rotate(15deg); /* IE 9 */
+    -webkit-transform: rotate(15deg); /* Chrome, Safari, Opera */
+    transform: rotate(15deg);
+	transition:1s;
+}
+.mobiles
+{    float:left;
+     margin-left:40px;
+	background:white;
+	 height:230px;
+	 width:300px;
+	 border: 2px solid;
+    border-radius: 25px;
+	padding-top:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:5px;
+	overflow:hidden;
+	transition:1s;
+	text-align:center;
+	font-size:20px;
+	text-shadow:2px 2px blue;
+	box-shadow:8px 8px 8px black;
+} 
+.mobiles:hover
+{
+	-ms-transform: rotate(-15deg); /* IE 9 */
+    -webkit-transform: rotate(-15deg); /* Chrome, Safari, Opera */
+    transform: rotate(-15deg);
+	transition:1s;
+}
+.footer
+{
+	background:#e6ffff;
+	height:100px;
+	font-family:verdana;
+}

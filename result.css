@@ -1,0 +1,107 @@
+body
+{
+margin-left:0px;
+margin-top:0px;
+margin-right:0px;
+margin-bottom:opx;
+background:#F2E8E8;
+
+}
+.auto
+{
+	background:#e6ffff;
+	height:100px;
+	font-family:verdana;
+}
+
+
+
+
+
+
+.wrap
+{
+  background:#EFE6F9;
+  height:900px;
+  width:1300px;
+  padding:100px;
+  margin-left:50px;
+}
+.wrapone
+{
+	 float:left;
+	 background:#F7E8ED;
+	 height:600px;
+	 width:325px;
+	 margin-left:30px;
+	 padding:30px;
+	
+} 
+.wraponeone
+{ 
+     background:#F1E8F7;
+	 height:300px;
+	 width:300px;
+	 padding-left:20px;
+}
+.wraponetwo
+{
+	 background:green;
+	 height:300px;
+	 width:300px;
+	 padding-left:20px;
+}
+.wraptwo
+{
+	 float:left;
+	 background:#B0AED5;
+	 height:600px;
+	 width:325px;
+	  margin-left:50px;
+	  padding:30px;
+}
+.wraptwoone
+{
+	background:#E1C0FB;
+	 height:300px;
+	 width:300px;
+	 padding-left:20px;
+}
+.wraptwotwo
+{
+background:green;
+	 height:300px;
+	 width:300px;
+	 padding-left:20px;
+}
+.wrapthree
+{
+	 float:left;
+	 background:#D594BA;
+	 height:600px;
+	 width:325px;
+	 margin-left:50px;
+	 padding:30px;
+	
+} 
+.wrapthreeone
+{ 
+     background:#FCE7E9;
+	 height:300px;
+	 width:300px;
+	 padding-left:20px;
+}
+.wrapthreetwo
+{
+	 background:green;
+	 height:300px;
+	 width:300px;
+	 padding-left:20px;
+}
+
+
+.foot
+{
+	 background:violet;
+	 height:200px;
+}
